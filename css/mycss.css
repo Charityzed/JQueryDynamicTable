@@ -1,0 +1,12 @@
+
+
+
+.scrollable-panel {
+    height: auto;
+    max-height: 600px;
+    overflow-x: hidden;
+}
+.tblhead{
+    height:10px;
+
+}
